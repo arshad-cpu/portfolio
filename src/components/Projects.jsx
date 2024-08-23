@@ -27,7 +27,7 @@ const Projects = () => {
             <div className='card mb-4'>
                 <div className='card-body'>
                 <h5 className='card-title'>
-                    Read For Speed - Smart India Hackathon
+                    Joke Generator
                 </h5>
                 <p className='card-text'>
                     Designed the UI and implemented CSS styling for the website,
@@ -40,11 +40,10 @@ const Projects = () => {
             <div className='card mb-4'>
                 <div className='card-body'>
                 <h5 className='card-title'>
-                    Read For Speed - Smart India Hackathon
+                    Task Manager Application
                 </h5>
                 <p className='card-text'>
-                    Designed the UI and implemented CSS styling for the website,
-                    optimizing performance and design across allpages
+                    Designed the Api for managing task wothin team like updating creating and deleting the task.
                 </p>
                 </div>
             </div>
@@ -53,11 +52,11 @@ const Projects = () => {
             <div className='card mb-4'>
                 <div className='card-body'>
                 <h5 className='card-title'>
-                    Read For Speed - Smart India Hackathon
+                    Joke Generator application
                 </h5>
                 <p className='card-text'>
                     Designed the UI and implemented CSS styling for the website,
-                    optimizing performance and design across allpages
+                    optimizing performance and design across allpages using react js.
                 </p>
                 </div>
             </div>
@@ -66,11 +65,10 @@ const Projects = () => {
             <div className='card mb-4'>
                 <div className='card-body'>
                 <h5 className='card-title'>
-                    Read For Speed - Smart India Hackathon
+                    Mobile Banking Application
                 </h5>
                 <p className='card-text'>
-                    Designed the UI and implemented CSS styling for the website,
-                    optimizing performance and design across allpages
+                    Designed the api using java springboot and mysql database
                 </p>
                 </div>
             </div>

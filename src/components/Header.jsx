@@ -14,7 +14,7 @@ const Header = () => {
       <Navbar.Brand as={Link} to="/"
       className="brand-name">
         <span className="display-4 text-white ho">
-          Arshad
+          Md Arshad
           </span>
       </Navbar.Brand>
       <button 
